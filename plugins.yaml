@@ -3,3 +3,4 @@ plugins:
   - size
   - cat
   - dog
+  - trigger
