@@ -9,7 +9,7 @@ func TestAdd(t *testing.T) {
 		result float64
 	}{
 		{1, 2, 3},
-		{5, -7, -1},
+		{5, -7, -2},
 	}
 
 	for _, tc := range tcs {
